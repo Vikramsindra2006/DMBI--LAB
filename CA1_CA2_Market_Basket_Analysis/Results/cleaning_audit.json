@@ -1,0 +1,10 @@
+{
+  "raw_baskets": 9835,
+  "tokens_normalised": 408,
+  "empty_tokens_removed": 0,
+  "within_basket_repeats_removed": 0,
+  "empty_baskets_excluded": 0,
+  "retained_baskets": 9835,
+  "distinct_categories": 169,
+  "repeated_basket_contents_retained": 2824
+}

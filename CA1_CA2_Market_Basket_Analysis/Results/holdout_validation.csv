@@ -1,0 +1,11 @@
+rule,discovery_lift,validation_lift,validation_joint_count,validation_confidence_%,screen_pass
+citrus fruit + other vegetables → root vegetables,3.2326718435432844,3.544724770642202,22,39.285714285714285,True
+citrus fruit + root vegetables → other vegetables,3.173636391138181,2.5870747892628683,22,51.162790697674424,True
+other vegetables + tropical fruit → root vegetables,3.07103825136612,3.3982485404503757,29,37.66233766233766,True
+root vegetables + tropical fruit → other vegetables,3.0260020400314365,2.9926551597502753,29,59.183673469387756,True
+beef → root vegetables,2.9861603097454488,3.2115534131550305,42,35.59322033898305,True
+whipped/sour cream + whole milk → root vegetables,2.963909010039395,1.529311149121443,10,16.94915254237288,False
+other vegetables + whole milk → root vegetables,2.935704362322867,2.47203719994973,40,27.397260273972602,True
+other vegetables + yogurt → root vegetables,2.847201644123692,2.2557339449541285,21,25.0,True
+curd + whole milk → yogurt,2.712518853695324,2.978165590883736,19,40.42553191489361,False
+other vegetables + yogurt → tropical fruit,2.6627840979197,2.855691056910569,25,29.761904761904763,True

@@ -1,0 +1,3 @@
+suggested_product,matched_antecedent,support_count,confidence_percent,lift
+yogurt,curd + whole milk,99,38.52140077821012,2.761355514968633
+other vegetables,curd,169,32.25190839694656,1.666828791823276

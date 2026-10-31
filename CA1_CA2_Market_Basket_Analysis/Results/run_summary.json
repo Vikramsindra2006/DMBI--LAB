@@ -1,0 +1,18 @@
+{
+  "dataset": "Groceries",
+  "dataset_kaggle_url": "https://www.kaggle.com/datasets/irfanasrullah/groceries",
+  "loaded_file": "groceries.csv",
+  "input_format": "Headerless CSV; one shopping basket per row",
+  "sha256": "9f6ff7186d88eebe08904798a21d477a2cff475ae145f993e80db80ef567dfeb",
+  "baskets": 9835,
+  "categories": 169,
+  "min_support": 0.01,
+  "min_support_count": 99,
+  "min_confidence": 0.25,
+  "frequent_itemsets": 333,
+  "baseline_rules": 170,
+  "positive_rules": 169,
+  "recommendation_rules": 169,
+  "algorithms_equivalent": true,
+  "validation_note": "Separate 80/20 discovery and validation experiment; no business trial performed"
+}
